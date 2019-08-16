@@ -7,6 +7,7 @@ import time
 
 print(time.time())
 
+
 def new_func():
     """
 
@@ -23,3 +24,11 @@ def other_func():
 
     """
     pass
+
+
+def weird_func():
+    """
+
+    :return:
+    """
+    return "weird"
