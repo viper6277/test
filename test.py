@@ -7,10 +7,19 @@ import time
 
 print(time.time())
 
-def new_funct():
+def new_func():
     """
 
     :return:
     """
 
     return time.time()
+
+
+def other_func():
+    """
+
+    :return:
+
+    """
+    pass
